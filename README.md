@@ -5,8 +5,7 @@
 #### Below is the main storyboard for the app. 
 ![](appIMGs/mainStoryboard.png)
 
-
-#### Below are a few images of how much Bitcoin is selling for in different currencies. 
-##### Because the app is constantly fluctuating an API was required so the data is able to be pull and displayed in real time.
+ 
+##### Because its stock is constantly fluctuating an API was required to fetch the data and display it in real time.
 ![](appIMGs/Pound.png)
 ![](appIMGs/Dollars.png)
